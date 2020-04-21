@@ -22,7 +22,7 @@ Buatlah sebuah tampilan website Riwayat Hidup dengan ketentuan sbb :
 
 2. Contoh isi dari masing-masing halaman
 
-![Contoh Data Riwayat Hidup ](/images/contoh-form-riwayat-hidup.webp)
+![Contoh Data Riwayat Hidup ](/pertemuan_3/images/contoh-form-riwayat-hidup.png)
 
 3. Data Riwayat Hidup diisi dengan data asli dari masing masing mahasiswa
 
