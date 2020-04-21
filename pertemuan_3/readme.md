@@ -1,7 +1,8 @@
 # Pertemuan 3
 
-[![Pertemuan 3](https://img.youtube.com/vi/SH_Di0FOiJ0/0.jpg)](https://www.youtube.com/watch?v=SH_Di0FOiJ0)
+## Video
 
+[![Pertemuan 3](https://img.youtube.com/vi/SH_Di0FOiJ0/0.jpg)](https://www.youtube.com/watch?v=SH_Di0FOiJ0)
 
 ## Quiz
 
@@ -31,7 +32,9 @@ Buatlah sebuah tampilan website Riwayat Hidup dengan ketentuan sbb :
 * Kecepatan Pengumpulan Tugas
 * Kreatifitas
 
-5. Tugas di zip dan di kumpul via email ke gymie85@gmail.com
+5. Tugas di zip dan di kumpul via email ke gymie85@gmail.com 
+    dengan format judul email sbb : kelas nama nim
+    cth : TIVIIP1 BUDI 001
 
 **Batas Pengumpulan Tugas adalah tanggal 29 April 2020 00:00**
 
