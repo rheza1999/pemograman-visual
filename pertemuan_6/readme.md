@@ -1,5 +1,7 @@
 # Pertemuan 6
 
+[Slides](https://docs.google.com/presentation/d/1m1qN0oXJ1v9s-CURmSpCuh5o5VUjfEmMru3T3NIIDM4/edit?usp=sharing)
+
 ## Video
 
 [![Pertemuan 6](https://img.youtube.com/vi/DMAzEqbQX4w/0.jpg)](https://www.youtube.com/watch?v=DMAzEqbQX4w)
