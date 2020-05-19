@@ -21,13 +21,17 @@
 
 ![faktur](/pertemuan_7/soal/faktur.png)
 
-Total Sebelum Diskon = Qty * Harga
-Diskon = Total Sebelum Diskon * Diskon
-Total Setelah Diskon = Total Sebelum Diskon - Diskon
+**Rumus** 
+
+- Total Sebelum Diskon = Qty * Harga
+- Diskon = Total Sebelum Diskon * Diskon
+- Total Setelah Diskon = Total Sebelum Diskon - Diskon
 
 2. Buatlah Aplikasi untuk menghitung gaji karyawan dengan tampilan sbb : 
 
 ![gaji](/pertemuan_7/soal/gaji.png)
+
+**Rumus**
 
 Golongan | Gaji Pokok
 ---------|-----------
