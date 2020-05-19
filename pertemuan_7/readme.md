@@ -2,7 +2,7 @@
 
 ## Video
 
-[![Pertemuan 7](https://img.youtube.com/viY3hAd4ABaLA/0.jpg)](https://www.youtube.com/watch?v=Y3hAd4ABaLA)
+[![Pertemuan 7](https://img.youtube.com/vi/Y3hAd4ABaLA/0.jpg)](https://www.youtube.com/watch?v=Y3hAd4ABaLA)
 
 
 ## Referensi
