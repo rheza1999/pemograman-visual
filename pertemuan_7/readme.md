@@ -21,9 +21,21 @@
 
 ![faktur](/pertemuan_7/soal/faktur.png)
 
+Total Sebelum Diskon = Qty * Harga
+Diskon = Total Sebelum Diskon * Diskon
+Total Setelah Diskon = Total Sebelum Diskon - Diskon
+
 2. Buatlah Aplikasi untuk menghitung gaji karyawan dengan tampilan sbb : 
 
 ![gaji](/pertemuan_7/soal/gaji.png)
+
+Golongan | Gaji Pokok
+---------|-----------
+A | 150000
+B | 125000
+C | 100000
+
+Total Gaji = Gaji Pokok * Hari Kerja
 
 NB : 
 - Tugas dikerjakan dengan tampilan style css yang dibuat sendiri,tidak boleh ada kemiripan style css dengan style css dari contoh yang saya berikan atau style css dari tugas mahasiswa yang lain
